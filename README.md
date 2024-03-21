@@ -1,7 +1,7 @@
 # pandas-challenge
 This is the repository for Monash University Data Analytics Bootcamp Module 4 Challenge
 
-Background
+# Background
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ You are the new Chief Data Scientist for your local government area. In this cap
 
 As a first task, you've been asked to analyse the area-wide standardised test results. You'll be given access to every student's maths and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
-Instructions
+# Instructions
 
 --------------------------------------------------------------------------------------------------------------------------------
 
